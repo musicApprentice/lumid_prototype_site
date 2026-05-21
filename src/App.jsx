@@ -250,12 +250,12 @@ function HeroDashboard() {
 
 function WearablePhoto() {
   return (
-    <div className="mt-10 hidden justify-start lg:flex">
-      <div className="overflow-hidden rounded-[2rem] border border-slate-200/80 bg-white shadow-[0_35px_100px_-45px_rgba(15,23,42,0.65)]">
+    <div className="mt-10 flex justify-start">
+      <div className="w-full overflow-hidden rounded-[2rem] border border-slate-200/80 bg-white shadow-[0_35px_100px_-45px_rgba(15,23,42,0.65)] sm:w-fit">
         <img
           src="/wearable.png"
           alt="Person wearing a rehabilitation wearable device"
-          className="h-[420px] w-[520px] object-cover"
+          className="h-auto w-full object-cover sm:h-[420px] sm:w-[520px]"
         />
       </div>
     </div>
