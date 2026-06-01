@@ -459,8 +459,7 @@ export default function LumidLandingPage() {
             </h1>
 
             <p className="mb-8 max-w-xl text-lg leading-8 text-slate-600 sm:text-xl sm:leading-9">
-              Lumid helps therapists understand how patients use their affected
-              arm outside the clinic through wearable sensing, objective
+              Lumid helps stroke survivors, care-givers and therapists understand how they are recovering outside the clinic through wearable sensing, objective
               recovery insights, and RTM documentation support.
             </p>
 
