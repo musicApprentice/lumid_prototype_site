@@ -767,30 +767,7 @@ export default function LumidLandingPage() {
                   </div>
                 </div>
 
-                <div className="rounded-[1.8rem] border border-slate-200 bg-slate-50/80 p-5 transition hover:-translate-y-1 hover:shadow-xl sm:p-6">
-                  <div className="flex flex-col gap-5 sm:flex-row sm:items-start sm:gap-6">
-                    <img
-                      src="/Jason.jpg"
-                      alt="Jason Huang"
-                      className="h-28 w-28 shrink-0 rounded-3xl border border-slate-200 object-cover shadow-lg sm:h-32 sm:w-32"
-                    />
-
-                    <div className="pt-1">
-                      <h4 className="text-2xl font-bold tracking-tight text-slate-950">
-                        Jason Huang
-                      </h4>
-
-                      <p className="mt-2 text-sm font-semibold uppercase tracking-wide text-sky-700">
-                        Co-Founder
-                      </p>
-
-                      <p className="mt-4 break-all text-sm font-medium text-slate-500">
-                        jason@lumid.health
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+               
 
               <Button
                 className="mt-10 w-full rounded-2xl bg-slate-950 py-5 text-base font-semibold shadow-lg hover:bg-slate-800"
