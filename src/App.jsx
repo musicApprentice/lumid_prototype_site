@@ -767,12 +767,12 @@ export default function LumidLandingPage() {
                   </div>
                 </div>
 
-               
+              </div>
 
               <Button
                 className="mt-10 w-full rounded-2xl bg-slate-950 py-5 text-base font-semibold shadow-lg hover:bg-slate-800"
                 onClick={() => {
-                  window.location.href = "mailto:jason@lumid.health";
+                  window.location.href = "mailto:ivan@lumid.health";
                 }}
               >
                 Contact Lumid Health
